@@ -1,0 +1,21 @@
+.container {
+    margin-left: 40%;
+}
+
+.container p {
+    color: red;
+    margin: 0;
+}
+
+.container form {
+    align-items: center;
+}
+
+input {
+    padding: 10px !important;
+    height: 1.6em !important;
+}
+
+fieldset {
+    top: 0 !important;
+}
